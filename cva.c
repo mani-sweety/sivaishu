@@ -21,4 +21,3 @@ printf("%d  not a prime number);
 }
 return 0;
 }
-}
